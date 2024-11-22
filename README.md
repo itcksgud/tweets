@@ -222,7 +222,7 @@ sample_submission.to_csv("submission.csv", index=False)
 ```
 
 
-# 문제점점
+# 문제점
 ## EPOCH를 돌아도 f1-score가 좋아지지 않음
 aug: nltk를 이용해 train data를 늘렸을 때
 
