@@ -333,5 +333,7 @@ Best Accuracy: 0.8385 at Epoch 2
 실행 시간: 114m 10.4s
 
 # 제출 결과
-![image](https://github.com/user-attachments/assets/14121dad-6088-4327-ab3b-dc23a1d474f3)
+![image](https://github.com/user-attachments/assets/776061b9-7a1a-41a9-be81-e5dd75373908)
+
 0.83726으로 1000명이 넘는 참가자 중 71등에 올라감.
+
